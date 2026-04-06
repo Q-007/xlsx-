@@ -1,0 +1,6 @@
+ttkbootstrap
+deep-translator
+pandas
+openpyxl
+pyinstaller
+python-docx
